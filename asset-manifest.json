@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DataPeace-AI-User-Details/static/css/main.51162b60.css",
+    "main.js": "/DataPeace-AI-User-Details/static/js/main.e6c85871.js",
+    "index.html": "/DataPeace-AI-User-Details/index.html",
+    "main.51162b60.css.map": "/DataPeace-AI-User-Details/static/css/main.51162b60.css.map",
+    "main.e6c85871.js.map": "/DataPeace-AI-User-Details/static/js/main.e6c85871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51162b60.css",
+    "static/js/main.e6c85871.js"
+  ]
+}
