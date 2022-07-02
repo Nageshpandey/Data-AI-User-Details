@@ -1,6 +1,6 @@
 {
-  "name": "my",
-  "homepage": "http://nageshpandey.github.io/DataPeace-AI-User-Details",
+  "name": "user-details",
+  "homepage": "https://nageshpandey.github.io/DataPeace-AI-User-Details",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
